@@ -1,0 +1,12 @@
+{
+  "ambientDependencies": {
+    "axios": "registry:dt/axios#0.9.1+20160317120654",
+    "koa": "registry:dt/koa#2.0.0+20160317120654",
+    "react": "registry:dt/react#0.14.0+20160412154040",
+    "react-redux": "registry:dt/react-redux#4.4.0+20160406115600",
+    "redux": "registry:dt/redux#3.3.1+20160326112656"
+  },
+  "dependencies": {
+    "immutable": "registry:npm/immutable#3.7.6+20160411060006"
+  }
+}
